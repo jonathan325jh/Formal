@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:white;
+}
+
+header{
+    background-color: black;
+    height: 25vh;
+}
+
+.links{
+    background-color: #252122;
+    height: 13vh;
+}
+
+.container-foto{
+    background-color: #5b5a5a;
+    margin-top: 2px;
+    height: 55vh;
+}
