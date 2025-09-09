@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -13,9 +15,38 @@ header{
     height: 25vh;
 }
 
+#logo{
+    width: 16%;
+    margin-top: 4em;
+    margin-left: 41em;
+}
+
+#login{
+    width: 4%;
+    margin-left: 30em;
+    margin-bottom: 2em;
+}
+
 .links{
+    font-family: "Lora", serif;
     background-color: #252122;
     height: 13vh;
+    color: white;
+    padding-top: 27px;
+    padding-left: 15em;
+    word-spacing: 27em;
+    
+}
+
+#links-a{
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+
+#foto-container{
+    width: 22%;
+    margin-left: 55em;
 }
 
 .container-foto{
