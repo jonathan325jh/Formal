@@ -18,28 +18,30 @@ header{
 #logo{
     width: 16%;
     margin-top: 4em;
-    margin-left: 40em;
+    margin-left: 49em;
 }
 
 #login{
-    width: 4%;
-    margin-left: 25em;
-    margin-bottom: 1em;
+    width: 3%;
+    margin-left: 40em;
+    margin-bottom: 3em;
 }
 
 .links{
+    justify-content: center;
     font-family: "Lora", serif;
     background-color: #252122;
-    height: 8vh;
+    height: 6vh;
     color: white;
-    padding-top: 15px;
-    padding-left: 12em;
-    word-spacing: 27em;
+    padding-top: 10px;
+    padding-left: 19em;
+    word-spacing: 30em;
     
 }
 
 #links-a{
-    font-size: 25px;
+    text-align: center;
+    font-size: 23px;
     text-decoration: none;
     color: white;
     letter-spacing: 3px;
@@ -54,9 +56,9 @@ header{
 }
 
 .container-foto{
-    background-color: rgb(93, 92, 92);
+    background-color: rgb(66, 66, 66);
     margin-top: 2px;
-    height: 55vh;
+    height: 52vh;
 }
 
 p{
@@ -87,4 +89,15 @@ h1{
     color: #dad8d8;
     letter-spacing: 3px;
     font-family: "Lora", serif;
+}
+
+footer{
+    background-color: black;
+    height: 9vh;
+}
+
+#para-copy{
+    font-size: 25px;
+    margin-bottom: 10em;
+    margin-left: 30em;
 }
