@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+
+}
+
+.container-login{
+    background-color: rgb(129, 129, 129);
+    border-radius: 10px;
+    align-items: center;
+    margin-top: 9em;
+    width: 50%;
+    margin-left: 24em;
+    height: 65vh;
+}
